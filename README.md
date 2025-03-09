@@ -9,12 +9,12 @@
 
 <h2>🚀 About Me</h2>
 <ul>
-    <li>🔭 <b>Currently Working On:</b>
+<!--     <li>🔭 <b>Currently Working On:</b>
         <ul>
             <li><b>Wedding Vendor Management Project:</b> Connecting customers with service providers using Angular and PrimeNG.</li>
             <li><b>Clothing Store E-commerce Platform:</b> Building a scalable backend for a microservices-based product system.</li>
         </ul>
-    </li>
+    </li> -->
     <li>🌱 <b>Currently Learning:</b> Advanced concepts in <b>microservices architecture</b>, <b>Spring Boot</b>, and <b>Angular development</b>.</li>
     <li>💡 <b>Interests:</b> IoT, augmented reality, and building user-friendly web applications.</li>
     <li>📫 <b>Reach Me At:</b>
